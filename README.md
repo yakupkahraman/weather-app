@@ -1,3 +1,3 @@
 # weather_app
 
-Datas has taken from OpenWeatherMap.com 
+Datas has taken from OpenWeatherMap.org 
